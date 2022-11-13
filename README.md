@@ -21,17 +21,14 @@
 </p>
  <hr>
 
- <br>
-
 <br>
  </h1>
 
 > <img src="./github/miranhaHi.gif" alt="STAR" width="40"> &nbsp;**_Talking about Personal Stuffs:_**
 
  <img align="right" width=360px alt="Unicorn" src="https://media1.giphy.com/media/uctvenxww01iIanyvT/giphy.gif?cid=ecf05e47smr7m6tgwucf4r8aib000fp3ryzb0mexe7el1i4r&rid=giphy.gif&ct=s" />
- <br>
-  
 
+ 
 - <img src="https://media3.giphy.com/media/RCy5AzhRO5OFNSpc3s/giphy.gif?cid=ecf05e47yvwta3qqi7sihvtdo3h61pmefzoxlsyyo09kdp7x&rid=giphy.gif&ct=s" alt="STAR" width="40">&nbsp;I love: ***Games*** and ***Movies***😉
 - <img src="https://media0.giphy.com/media/0xvGdwbBZFDhy0XYBE/giphy.gif?cid=ecf05e47jqos7zsmagm6v489rx23efwo4h4sk3xhmp1617sc&rid=giphy.gif&ct=s" alt="STAR" width="40"> &nbsp;I’m currently working at Smart Innovation ..
 - <img src="./github/miranha3.gif" alt="STAR" width="40"> &nbsp;I’m currently learning react native
@@ -41,6 +38,7 @@
 - <img src="./github/miranha7.gif" alt="STAR" width="40"> &nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
 
   <hr  />
+
 
 <img src="./github/star.gif" alt="STAR" width="40"> &nbsp;**_Languages & Tools I Know..._**
 
@@ -248,7 +246,9 @@
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+ <hr>
+
 
 <h2 align="center">
  <details open>

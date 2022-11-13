@@ -248,24 +248,20 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
  <hr>
-
-
 <h2 align="center">
  <details open>
 <summary> &ensp; 
  <img src="./github/miranhavsoctopus.gif" width="70px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="./github/miranhavsoctopus.gif" width="70px" alt="GitHub-Status"/>
  </summary>
-
+</h2>
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=RafaelYokoyama&theme=dracula">
-<br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelYokoyama&theme=dracula">
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=RafaelYokoyama&show_icons=true&custom_title=RafaelYokoyama's%20Github%20Stats&theme=dracula">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelYokoyama&theme=dracula">
-</div>
+ <p align="center" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelYokoyama&layout=compact&theme=dracula"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelYokoyama&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="255"/>
+  <br/>
+</p>
 </details>
-</h2>
 
  <hr>
 <div>

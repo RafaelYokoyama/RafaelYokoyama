@@ -256,7 +256,6 @@
  </summary>
 
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=RafaelYokoyama&theme=dracula">
 
   <br/>
     <br/>

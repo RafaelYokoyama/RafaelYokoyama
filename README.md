@@ -24,7 +24,7 @@
 <br>
  </h1>
 
-> <img src="./github/miranhaHi.gif" alt="STAR" width="40"> &nbsp;**_Talking about Personal Stuffs:_**
+ <img src="./github/star.gif" alt="STAR" width="40">  &nbsp;**_Talking about Personal Stuffs:_**
 
  <img align="right" width=360px alt="Unicorn" src="https://media1.giphy.com/media/uctvenxww01iIanyvT/giphy.gif?cid=ecf05e47smr7m6tgwucf4r8aib000fp3ryzb0mexe7el1i4r&rid=giphy.gif&ct=s" />
 

@@ -248,26 +248,6 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
  <hr>
- 
-<h2 align="center">
- <details open>
-<summary> &ensp; 
- <img src="./github/miranhavsoctopus.gif" width="70px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="./github/miranhavsoctopus.gif" width="70px" alt="GitHub-Status"/>
- </summary>
-
-<br>
-
-  <br/>
-    <br/>
- <p align="center" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelYokoyama&layout=compact&theme=dracula"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelYokoyama&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" "/>
-  <br/>
-</p>
-</details>
-</h2>
-
- <hr>
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
